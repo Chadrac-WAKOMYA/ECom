@@ -87,5 +87,11 @@ header button {
 .cards .card img{
     width: 360px;
 }
+
+.cards .card .card-header{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
 /* Fin de cartes */
 /* Fin de la section principale  */

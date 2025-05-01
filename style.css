@@ -67,12 +67,12 @@ header button {
 /* Fin header */
 
 /* Section principale */
-.main {
+.main{
     margin: 20px;
     margin-top: 80px;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center;
 }
 /* Fin de la section principale  */

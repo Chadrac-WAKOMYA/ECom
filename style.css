@@ -41,3 +41,12 @@ nav .onglets input {
     outline: none;
 }
 /* Fin barre de navidation */
+
+/* Début header */
+header {
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+    flex-direction: column;
+}
+/* Fin header */

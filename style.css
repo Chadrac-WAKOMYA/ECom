@@ -20,4 +20,10 @@ nav  {
 nav h1 {
     font-size: 20px;
 }
+
+nav .onglets {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 5px;
+}
 /* Fin barre de navidation */

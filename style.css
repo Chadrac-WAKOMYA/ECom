@@ -100,4 +100,11 @@ header button {
 }
 
 /* Fin de cartes */
+
+/* Vidéo de présentation */
+.main .video{
+    margin-top: 80px;
+    width: 90%;
+}
+/* Fin de la vidéo de présentation */
 /* Fin de la section principale  */

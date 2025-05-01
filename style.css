@@ -130,6 +130,17 @@ footer .social-media{
     display: flex;
 }
 
-
+footer .social-media p{
+    margin-right: 15px;
+    border:1PX solid #fff;
+    padding: 5px;
+    border-radius: 100%;
+    text-align: center;
+    width: 20px;
+    cursor: pointer;
+}
 
 /* Fin de pied de page  */
+/* @media screen and (max-with:820px){ 
+    nav .onglets .link
+} */

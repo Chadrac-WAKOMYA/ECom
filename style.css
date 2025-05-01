@@ -86,6 +86,7 @@ header button {
 }
 .cards .card img{
     width: 360px;
+    height: 400px
 }
 
 .cards .card .card-header{

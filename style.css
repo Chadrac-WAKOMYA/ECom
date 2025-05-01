@@ -126,5 +126,10 @@ footer{
     justify-content: space-between;
     padding: 30px;
 }
+footer .social-media{
+    display: flex;
+}
+
+
 
 /* Fin de pied de page  */

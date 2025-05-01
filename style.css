@@ -65,3 +65,14 @@ header button {
     cursor: pointer;
 }
 /* Fin header */
+
+/* Section principale */
+.main {
+    margin: 20px;
+    margin-top: 80px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+/* Fin de la section principale  */

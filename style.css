@@ -93,5 +93,10 @@ header button {
     flex-wrap: wrap;
     justify-content: space-between;
 }
+
+.cards .card .card-body p{
+    margin-top: -10px;
+}
+
 /* Fin de cartes */
 /* Fin de la section principale  */

@@ -84,5 +84,8 @@ header button {
     margin-right: 20px;
     cursor: pointer;
 }
+.cards .card img{
+    width: 360px;
+}
 /* Fin de cartes */
 /* Fin de la section principale  */

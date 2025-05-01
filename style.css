@@ -75,4 +75,10 @@ header button {
     justify-content:center;
     align-items:center;
 }
+/* Toutes les cartes */
+.cartes{
+    display: flex;
+    flex-wrap: wrap;
+}
+/* Fin de cartes */
 /* Fin de la section principale  */

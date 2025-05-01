@@ -24,6 +24,11 @@ nav h1 {
 nav .onglets {
     display: flex;
     flex-wrap: wrap;
-    margin: 5px;
+}
+
+nav .onglets p {
+    font-size: 17px;
+    margin-right:  10px;
+    cursor: pointer;
 }
 /* Fin barre de navidation */
